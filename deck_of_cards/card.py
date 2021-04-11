@@ -46,3 +46,4 @@ class Card:
         t1 = self.suit, self.rank
         t2 = other.suit, other.rank
         return t1 < t2
+        pass
